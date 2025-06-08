@@ -1,75 +1,72 @@
-# Welcome to My GitHub Profile! 🌍🤖
+# Welcome to My GitHub Profile! 🌍🚀
 
 ## About Me 👋
 
-Hey there! I'm a public health grad turned data scientist 💡 passionate about using AI to solve **real-world problems**—from healthcare to smart cities.
+Hey! I'm a public health grad turned data scientist passionate about **AI for good** — blending public health, machine learning, and generative AI to solve real-world challenges.  
 
-When I’m not coding or building machine learning apps, you might find me:
-- Dreaming up ways to use data for social good 🌱
-- Breaking down AI models just to rebuild them better 🔁
-- Exploring the perfect balance between public health & machine learning 🧠❤️
-
-## 🧰 Tech Stack: Where the Magic Happens
-
-I’m fluent in Pythonic spells and deep learning alchemy 🔮
-
-### 🧠 Machine Learning / AI
-- scikit-learn, XGBoost, LightGBM
-- PyTorch, Hugging Face Transformers, QLoRA
-- GANs (Medical & Style Transfer), YOLOv8 (Object Detection)
-
-### 🌐 Deployment & Visualization
-- Streamlit, Gradio, Dash
-- Pandas, Seaborn, Matplotlib
-- PostgreSQL, pgAdmin
-
-### 📊 Other Skills
-- Public health research & epidemiological analysis
-- Data cleaning, NLP, NER, summarization, and QA
-- AWS (learning in progress!), Tableau (certification pending)
+When I’m not modeling data, you’ll catch me:
+- Designing AI apps that make impact 🧠📲  
+- Reading research papers like thrillers 🕵️‍♂️  
+- Wondering if my GAN is dreaming in X-rays 🤯  
 
 ---
 
-## ⚙️ Projects: My Digital Lab 🔬
+## 🔥 My Tech Stack — Built Around Projects That Matter
 
-Here’s where I bring ideas to life—one repo at a time:
+Forget generic lists — here’s what I’ve built and learned along the way:
 
-### 🩺 **Medical Report Analyzer**
-AI-powered NLP app for summarizing and extracting key info from medical documents using Hugging Face models.
+### 🧠 Large Language Models (LLMs)
+**💰 Fine-Tuning LLaMA 3.1 on Amazon Pricing Dataset**  
+→ Hands-on with QLoRA, PEFT, and Hugging Face Transformers for domain-specific finetuning.
 
-### 🎨 **Real-Time Style Transfer App**
-Feedforward neural network for fast, fun artistic transformations—deployed with Gradio.
+### 🎨 Generative AI
+**🧬 Medical Image GAN (Deployed via Streamlit)**  
+→ Built with PyTorch + CNNs to generate synthetic medical scans for augmentation and education.
 
-### 🚦 **Smart Traffic Monitoring System**
-YOLOv8-powered app for real-time vehicle & pedestrian detection. Think city brains on code 🧠🏙️
+### 📊 Data Science & ML
+**🎬 Movie Recommendation Engine**  
+→ Implemented collaborative filtering and content-based methods using `scikit-learn` and `pandas`.
 
-### 🐶 **"Doge" Transformer**
-A custom 160M-parameter model fine-tuned on math reasoning with QLoRA—just for fun (and science).
-
-_(More coming soon!)_
-
----
-
-## 🧠 Fun Facts About Me
-
-- I once built a CNN just to see what my cat would look like in Van Gogh style 🎨🐱
-- I think epidemiology and machine learning are secretly the same thing—just different feature spaces.
-- My favorite Python package? `gradio`—because showing off your model is half the fun!
+### 👁️ Computer Vision
+**🧠 YOLOv11 Brain Tumor Detection**  
+→ Real-time object detection and segmentation with a YOLOv8+ inspired pipeline.
 
 ---
 
-## 🤝 Want to Connect?
+## 🚧 More Projects in the Works
 
-Let's build something awesome together!
+- 🧾 **Legal/Medical Document Analyzer** (NER, Summarization, QA)
+- 🌆 **Smart Traffic Monitor** (YOLOv8 + Streamlit)
+- 🐶 **"Doge" Transformer** (160M param model for math reasoning)
 
-- 💼 [LinkedIn](#) – Let's connect professionally!
-- 💬 Discord – Ask me about AI + Public Health!
-- 🧪 [Portfolio](#) – Under construction... but magic is happening behind the scenes!
-
----
-
-> *"The future of public health is predictive, not reactive. Let's code it into existence."* 💪
+Stay tuned — I build and ship often! 🛠️
 
 ---
 
-_Tagged: `#python` `#machinelearning` `#publichealth` `#streamlit` `#huggingface` `#pytorch` `#gan` `#yolo` `#ai4good`_
+## ⚙️ Tools & Frameworks I Use Daily
+- **Languages**: Python 🐍, SQL  
+- **Libraries**: PyTorch, scikit-learn, Hugging Face, OpenCV  
+- **Apps**: Streamlit, Gradio, Dash  
+- **Data**: pandas, seaborn, PostgreSQL  
+- **AI**: GANs, YOLO, LLaMA, Transformers  
+- **Deployment**: Hugging Face Spaces, Streamlit Cloud
+
+---
+
+## 📚 Fun Facts
+
+- Built a GAN before I learned to properly bake 🍞
+- Believe the future of public health is *predictive*
+- Think of code like a stethoscope: a tool to diagnose and heal at scale
+
+---
+
+## 🤝 Let’s Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahmeer-shahzad-790b67356/)  
+- 💬 Discord (DM me your dataset, I’ll DM back insights!)  
+- 🧪 [Portfolio](shah-meer.github.io) 
+
+---
+
+> *"Machine learning isn’t just for Silicon Valley — it belongs in hospitals, streets, and communities."* 🏥🏙️
